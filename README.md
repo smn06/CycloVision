@@ -59,7 +59,6 @@ Project Organization
 
 --------
 
----
 
 **Key Features:**
 
